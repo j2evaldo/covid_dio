@@ -15,4 +15,4 @@ Criando modelos com Python e Machine Learning para prever a evolução do COVID-
 
 A ideia central é desenvolver um modelo para prever os casos de covid19 no brasil utilizando modelos de machine Learning.
 
-Link para o [Código do Porjeto](https://github.com/j2evaldo/covid_dio/blob/main/covid.ipynb)
+Link para o [Código do Projeto](https://github.com/j2evaldo/covid_dio/blob/main/covid.ipynb)
